@@ -1,2 +1,2 @@
 # ATM-Machine
-Basic ATM Machine Project (Java)
+Basic ATM Machine Project Java
